@@ -1,2 +1,4 @@
 # StringProject
  Hanging Men
+
+ `javac`
