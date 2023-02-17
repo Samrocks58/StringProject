@@ -1,4 +1,6 @@
 # StringProject
  Hanging Men
 
- `javac`
+ ```
+ This code is for a terminal based Hangman Game!!!
+ ```
